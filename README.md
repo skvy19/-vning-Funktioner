@@ -1,1 +1,1 @@
-# -vning-Funktioner
+# Funktioner
